@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1.0",
+  "org": "cherrypy",
+  "repo": "oauth-client-example",
+  "versions": [
+    {
+      "commit": "84d882ad606f1c3ed2e9bde3cecc1af4df8ce7b7",
+      "parsed_at": "2026-10-11T06:22:50.208330+00:00",
+      "filetree": "filetree/84d882ad606f1c3ed2e9bde3cecc1af4df8ce7b7.nq.gz",
+      "blobs": [
+        "blob/57136ae075ac318fb71e98ccf851b111645be65e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
